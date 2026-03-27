@@ -16,22 +16,7 @@
  🛠️ Tech Stack
 
   💻 Frontend: HTML, CSS, JavaScript  
-  ⚙️ Backend: (Flask / Node.js / etc.)  
-  🗄️ Database: MySQL / MongoDB  
-  🔧 Version Control: Git & GitHub  
-
- 📦 Installation
-
-1. Clone the repository  
-   git clone https://github.com/username/your-repo-name.git  
-
-2. Navigate to the project folder  
-   cd your-repo-name  
-
-3. Install dependencies  
-
-4. Run the application  
-
+  
 ▶️ Usage
 
  Open the application in your browser 🌐  
